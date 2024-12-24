@@ -14,7 +14,6 @@ export default {
         brand: {
           'primary': "rgb(var(--brand-primary) / <alpha-value>)",
           'secondary': "rgb(var(--brand-secondary) / <alpha-value>)",
-          'black': "rgb(var(--brand-black) / <alpha-value>)",
           'general-black': "rgb(var(--brand-general-black) / <alpha-value>)",
           'general-border': "rgb(var(--brand-general-border) / <alpha-value>)",
           'general-body-primary': "rgb(var(--brand-general-body-primary) / <alpha-value>)",
