@@ -1,0 +1,19 @@
+@import url('https://fonts.cdnfonts.com/css/sf-pro-display');
+@import url('https://fonts.cdnfonts.com/css/inter');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+
+    --brand-primary: 36 255 188;
+    --brand-secondary: 27 30 34;
+    --brand-black: 26 26 26;
+    --brand-general-black: 11 11 15;
+    --brand-general-border: 21 23 27;
+    --brand-general-body-primary: 245 245 245;
+  }
+}
