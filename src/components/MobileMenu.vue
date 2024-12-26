@@ -26,6 +26,6 @@ import Icon from '@/components/UI/Icon.vue'
 }
 
 .menu > div {
-  @apply flex flex-col gap-y-2 justify-center items-center py-[15px] px-0.5;
+  @apply flex flex-col gap-y-2 justify-center items-center py-[13px] px-0.5;
 }
 </style>
